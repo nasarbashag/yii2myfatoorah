@@ -1,0 +1,21 @@
+{
+    "name": "nasarbashag/yii2myfatoorah",
+    "description": "Myfatoorah extension for Yii2 Framework",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Nasar Basha",
+            "email": "nasarbashag1995@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "nasarbashag\\yii2myfatoorah\\": ""
+        }
+    }
+}
