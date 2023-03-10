@@ -2,8 +2,11 @@
     "name": "nasarbashag/yii2myfatoorah",
     "description": "Myfatoorah extension for Yii2 Framework",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension"],
-    "license": "Apache-2.0",
+    "keywords": [
+        "yii2",
+        "extension"
+    ],
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Nasar Basha",
